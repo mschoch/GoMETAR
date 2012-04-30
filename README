@@ -1,0 +1,7 @@
+This does not yet work.
+
+I got the regex's in.
+I am working through applying them to my sample METAR.
+Then I have to convert it to its own package and add tests.
+
+Figured I would get it up before I lapse for another few months.
